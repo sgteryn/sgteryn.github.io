@@ -4,7 +4,7 @@
     padding:0;
     margin:0;
     box-sizing: border-box;
-    background-image: linear-gradient(to bottom right, rgb(0, 216, 191), rgb(255, 255, 255));
+    /* background-image: linear-gradient(to bottom right, rgb(0, 216, 191), rgb(255, 255, 255)); */
 }
 .radial-gradient{
     background: radial-gradient(at 0% 30%, red 10px, yellow 30%, #1e90ff 50%);
