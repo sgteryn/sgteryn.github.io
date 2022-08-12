@@ -7,7 +7,7 @@
     /* background-image: linear-gradient(to bottom right, rgb(0, 216, 191), rgb(255, 255, 255)); */
 }
 .radial-gradient{
-    background: radial-gradient(at 0% 30%, rgb(101, 245, 255) 10px, rgb(255, 255, 182) 30%, #fcfeff 50%);
+    background: radial-gradient(at 0% 30%, rgb(101, 245, 255) 10px, rgb(255, 255, 182) 30%, #00928d 50%);
   }
 
 .hero{
