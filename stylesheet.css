@@ -2,13 +2,19 @@
 
 *{
     padding:0;
-    margin:0;
+    margin: 0;
     box-sizing: border-box;
+    font-family: 'Poiret One', cursive;
 }
 .radial-gradient{
     background: radial-gradient(at 0% 30%, rgb(101, 245, 255) 10px, rgb(255, 255, 182) 30%, #00928d 50%);
   }
-
+#tmlogo{
+    display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 .hero{
     height: 100vh;
     width: 100%;
@@ -27,7 +33,7 @@ nav{
 }
 
 .logo{
-    color: white;
+    color: rgba(76, 81, 81, 0.757);
     font-size: 28px;
 }
 
@@ -47,7 +53,7 @@ nav ul li a{
     font-weight: bold;
 }
 
-nav ul li a:hoover{
+nav ul li a:hoover {
     color:rgb(0, 216, 191);
     transition: .3s;
 }
@@ -61,7 +67,7 @@ button{
     font-size: 15px;
     transition: .4s;
 }
-button:hoover{
+button:hoover {
     transform: scale(1.3);
     cursor: pointer;
 }
@@ -70,4 +76,22 @@ h1{
     font-size: 20px;
     color: rgb(2, 46, 65) ;
     text-shadow: 1px 1px 2px rgb(254, 237, 85);
+}
+
+h5{
+    color: rgb(2, 46, 65);
+}
+
+#terynbw{
+    border-radius: 50%;
+}
+
+#dvillepic{
+    height: 100vh;
+    width: 100%;
+}
+
+footer{
+    background-color: aliceblue;
+    font-weight: 800;
 }
