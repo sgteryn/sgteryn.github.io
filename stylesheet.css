@@ -12,7 +12,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6), url(/media/terynmillinerlogo.png));
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6), url(./media/terynmillinerlogo.png));
     background-size: cover;
     background-position: center;
 }
@@ -68,6 +68,6 @@ button:hoover{
 
 h1{
     font-size: 20px;
-    color: rgb(246, 132, 153) ;
+    color: rgb(2, 46, 65) ;
     text-shadow: 1px 1px 2px rgb(254, 237, 85);
 }
