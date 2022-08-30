@@ -19,13 +19,13 @@
     display: block;
  	margin-left: auto;
 	margin-right: auto;
-    margin-top: 10rem;
+    margin-top: 1rem;
 	width: 70%;
 }
 .hero{
     height: 100vh;
     width: 100%;
-    /* background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6), url(./media/terynmillinerlogo.png));
+    /* background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6), url(media/terynmillinerlogo.png));
     background-size: cover;
     background-position: center; */
 }
